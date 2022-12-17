@@ -6,5 +6,5 @@
 
 <div align="center">
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Elgar17" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elgar17" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elgar17&layout=compact" />
 </div>
