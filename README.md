@@ -5,6 +5,6 @@
 - 📫 How to reach me: elgara@163.com
 
 <div align="center">
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Elgar17&show_icons=true&line_height=21" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Elgar17&show_icons=true&line_height=24" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elgar17&layout=compact&langs_count=6" />
 </div>
