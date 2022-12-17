@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning Golang
 - 📫 How to reach me: elgara@163.com
 
-<div align="center">
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Elgar17)](https://github.com/anuraghazra/github-readme-stats)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elgar17&layout=compact)
+<div align="center"
+<img src="https://github-readme-stats.vercel.app/api?username=Elgar17"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elgar17&layout=compact"/>
 </div>
 
 <div align="center">
