@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on frontend
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Next.js
 - 📫 How to reach me: elgara@163.com
 
 <div align="center">
