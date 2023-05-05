@@ -6,6 +6,7 @@
 [![](https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white)](#)
 [![](https://img.shields.io/badge/Next-000000?style=flat-square&logo=next.js)](#)
 [![](https://img.shields.io/badge/Golang-1E90FF?style=flat-square&logo=go&logoColor=white)](#)
+[![](https://img.shields.io/badge/Qt-3ec34e?style=flat-square&logo=qt&logoColor=white)](#)
 
 - 🔭 I’m currently working on frontend
 - 🌱 I’m currently learning Goalng and Vue3
