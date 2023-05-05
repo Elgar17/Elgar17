@@ -1,7 +1,14 @@
 ### Hi there 👋
 
+[![](https://img.shields.io/badge/-TypeScript-red?style=flat-square&logo=typescript&logoColor=white)](#)
+[![](https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)](#)
+<!-- [![](https://img.shields.io/badge/Nuxt-bb5cff?style=flat-square&logo=nuxt.js)](#) -->
+[![](https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white)](#)
+[![](https://img.shields.io/badge/Next-000000?style=flat-square&logo=next.js)](#)
+[![](https://img.shields.io/badge/Golang-1E90FF?style=flat-square&logo=go&logoColor=white)](#)
+
 - 🔭 I’m currently working on frontend
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning Goalng and Vue3
 - 📫 How to reach me: elgara@163.com
 
 <div align="center">
