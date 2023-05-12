@@ -9,7 +9,7 @@
 [![](https://img.shields.io/badge/Qt-3ec34e?style=flat-square&logo=qt&logoColor=white)](#)
 
 - 🔭 I’m currently working on frontend
-- 🌱 I’m currently learning Goalng and Vue3
+- 🌱 I’m currently learning Golang and Vue3
 - 📫 How to reach me: elgara@163.com
 
 <div align="center">
